@@ -1,0 +1,4 @@
+﻿  logic6.cpp
+C:\Users\zorro\source\repos\logic6\logic6.cpp(55,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\zorro\source\repos\logic6\logic6.cpp(127,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  logic6.vcxproj -> C:\Users\zorro\source\repos\logic6\Debug\logic6.exe
